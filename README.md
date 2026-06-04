@@ -41,13 +41,13 @@ python --version
 
 **Passos:**
 1. Clone o repositório:
-```bash
+```
 git clone https://github.com/ariannermc/calculadora-em-python.git
 cd calculadora-em-python
 ```
  
 2. Execute o script:
-```bash
+```
 python calculadora.py
 ```
  
